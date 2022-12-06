@@ -62,7 +62,9 @@ npm init
 https://github.com/Sivaparam/agile-board
 
 ### Live URL: 
-https://agile-board-application.herokuapp.com/
+
+
+https://agile-board.herokuapp.com/
 
 
 ### Contributors: 
