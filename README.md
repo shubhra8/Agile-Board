@@ -59,7 +59,7 @@ npm init
 
 
 ### Github URL: 
-https://github.com/Sivaparam/agile-board
+https://github.com/shubhra8/Agile-Board
 
 ### Live URL: 
 
